@@ -13,3 +13,8 @@ brew install yarn --without-node
 npm install -g eslint
 npm install -g typescript
 npm install -g yo
+npm install -g vue-cli
+npm install -g react-create-app
+npm install -g electron
+npm install -g http-server
+npm install -g p5-manager
