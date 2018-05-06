@@ -18,3 +18,4 @@ npm install -g react-create-app
 npm install -g electron
 npm install -g http-server
 npm install -g p5-manager
+npm install -g express-generator
